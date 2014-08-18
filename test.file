@@ -1,7 +1,9 @@
 {
 	this is a test. 
-	it kind of looks like code
 	if (test = true) {
 		dance!
+	}
+	else {
+		frown
 	}
 }
